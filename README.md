@@ -1,0 +1,28 @@
+# About Me
+
+I am a tech writer and student who understands the value of continued learning. I earned my bachelor's degree in Information Technology (2019). I am enrolled as a full-time student at Colorado State University while working full-time to earn my MBA in Product Management. Earning this credential will benefit my career in API technical writing. It will provide you with a strong understanding of product development, market analysis, and user needs, which are all crucial for creating effective documentation. Additionally, the skills you gain in project management, communication, and strategic thinking will enhance your ability to collaborate with cross-functional teams and create user-focused content.
+
+
+## My Expertise
+
+* API Documentation
+* User Guides
+* OpenAPI Specification
+* Internal Style Guide
+
+## Tools
+
+* VSCode
+* GitHub
+* Postman
+* Drupal
+* Jira
+
+### Projects
+
+
+#### Contact Me
+
+Reach me [online](https://www.linkedin.com/in/1-shane-woods)
+
+
